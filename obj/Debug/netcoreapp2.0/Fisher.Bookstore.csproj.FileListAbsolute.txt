@@ -1,0 +1,10 @@
+C:\Users\Anthony\OneDrive\OSU-AnthonysPC\OSU Senior Year\Second Semester\ACCTMIS 3610\Working_Folder\Fisher.Bookstore\bin\Debug\netcoreapp2.0\Fisher.Bookstore.deps.json
+C:\Users\Anthony\OneDrive\OSU-AnthonysPC\OSU Senior Year\Second Semester\ACCTMIS 3610\Working_Folder\Fisher.Bookstore\bin\Debug\netcoreapp2.0\Fisher.Bookstore.runtimeconfig.json
+C:\Users\Anthony\OneDrive\OSU-AnthonysPC\OSU Senior Year\Second Semester\ACCTMIS 3610\Working_Folder\Fisher.Bookstore\bin\Debug\netcoreapp2.0\Fisher.Bookstore.runtimeconfig.dev.json
+C:\Users\Anthony\OneDrive\OSU-AnthonysPC\OSU Senior Year\Second Semester\ACCTMIS 3610\Working_Folder\Fisher.Bookstore\bin\Debug\netcoreapp2.0\Fisher.Bookstore.dll
+C:\Users\Anthony\OneDrive\OSU-AnthonysPC\OSU Senior Year\Second Semester\ACCTMIS 3610\Working_Folder\Fisher.Bookstore\bin\Debug\netcoreapp2.0\Fisher.Bookstore.pdb
+C:\Users\Anthony\OneDrive\OSU-AnthonysPC\OSU Senior Year\Second Semester\ACCTMIS 3610\Working_Folder\Fisher.Bookstore\obj\Debug\netcoreapp2.0\Fisher.Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\OneDrive\OSU-AnthonysPC\OSU Senior Year\Second Semester\ACCTMIS 3610\Working_Folder\Fisher.Bookstore\obj\Debug\netcoreapp2.0\Fisher.Bookstore.AssemblyInfoInputs.cache
+C:\Users\Anthony\OneDrive\OSU-AnthonysPC\OSU Senior Year\Second Semester\ACCTMIS 3610\Working_Folder\Fisher.Bookstore\obj\Debug\netcoreapp2.0\Fisher.Bookstore.AssemblyInfo.cs
+C:\Users\Anthony\OneDrive\OSU-AnthonysPC\OSU Senior Year\Second Semester\ACCTMIS 3610\Working_Folder\Fisher.Bookstore\obj\Debug\netcoreapp2.0\Fisher.Bookstore.dll
+C:\Users\Anthony\OneDrive\OSU-AnthonysPC\OSU Senior Year\Second Semester\ACCTMIS 3610\Working_Folder\Fisher.Bookstore\obj\Debug\netcoreapp2.0\Fisher.Bookstore.pdb
