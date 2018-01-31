@@ -16,7 +16,7 @@ namespace Fisher.Bookstore.Controllers
 
         public IActionResult Products()
         {
-         return Content("This is the products page.");
+         return View();
         }
 
     
@@ -25,7 +25,7 @@ namespace Fisher.Bookstore.Controllers
 
         public IActionResult Services()
         {
-            return Content("This is the Services page.");
+            return View();
         }
        
     }
